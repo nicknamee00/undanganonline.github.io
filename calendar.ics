@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:githubandrefahrezii@gmail.com
+X-WR-TIMEZONE:Asia/Jakarta
+BEGIN:VEVENT
+DTSTART:20230223T020000Z
+DTEND:20230223T170000Z
+DTSTAMP:20230205T162848Z
+UID:5veu4s7k4r630i6s300gro57fo@google.com
+CREATED:20230205T161157Z
+DESCRIPTION:<b>Bismillahirrahmanirrahim</b><br><br>Kami mengundang Bapak/Ib
+ u/Saudara/i untuk hadir di acara pernikahan kami.<br>InsyaAllah akan diadak
+ an di<br><br>Akad Nikah : Jl. Pranasip 54 Rt24/10 Kel. Mangga Besar\, Kec. 
+ Prabumulih Utara\, Kota Prabumulih (Kediaman Mempelai Wanita) \, 23 Februar
+ i 2023   - 09:00.<br>Walimatul 'Ursy : Gor Prabujaya  Hall\, 26 Februari 20
+ 23  - 90:00.<br><br><br><b>Dimas &amp\; Fira</b>
+LAST-MODIFIED:20230205T162511Z
+LOCATION:Jl. Pranasip\, Ps. II Prabumulih\, Kec. Prabumulih Utara\, Kota Pr
+ abumulih\, Sumatera Selatan 31113
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Akad Nikah Dimas & Fira
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230226T020000Z
+DTEND:20230226T170000Z
+DTSTAMP:20230205T162848Z
+UID:7ieumsmjj93kb7dn1d59aq0010@google.com
+CREATED:20230205T162647Z
+DESCRIPTION:<b>Bismillahirrahmanirrahim</b><br><br>Kami mengundang Bapak/Ib
+ u/Saudara/i untuk hadir di acara pernikahan kami.<br>InsyaAllah akan diadak
+ an di<br><br>Akad Nikah : Jl. Pranasip 54 Rt24/10 Kel. Mangga Besar\, Kec. 
+ Prabumulih Utara\, Kota Prabumulih (Kediaman Mempelai Wanita) \, 23 Februar
+ i 2023   - 09:00.<br>Walimatul 'Ursy : Gor Prabujaya  Hall\, 26 Februari 20
+ 23  - 90:00.<br><br><br><b>Dimas &amp\; Fira</b>
+LAST-MODIFIED:20230205T162647Z
+LOCATION:Jl. Pranasip\, Ps. II Prabumulih\, Kec. Prabumulih Utara\, Kota Pr
+ abumulih\, Sumatera Selatan 31113
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rsepsi Dimas & Fira
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
